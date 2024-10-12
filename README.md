@@ -7,6 +7,7 @@ Jesse Spencer-Smith, jesse.spencer-smith@vanderbilt.edu
 
 Michael Haidar, michael.a.haidar@vanderbilt.edu
 
+Shivam Tyagi, shivam.tyagi@vanderbilt.edu, FrostNT1
 
 Zifei (Bruce) Dong, zifei.dong@vanderbilt.edu
 
