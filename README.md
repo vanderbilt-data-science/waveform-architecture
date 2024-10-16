@@ -36,3 +36,7 @@ Sriram Nagasuri, sriram.nagasuri@vanderbilt.edu, snagasuri
 5. Provide Context and Problem Description:
    - Clearly state the problem the algorithm aims to solve
    - Include relevant background information or constraints
+
+## Direct Waverform Learning Suvery
+   - https://docs.google.com/document/d/10UW0w77fquLuGpz8PlUKIJgQJbmUW1KKY7ce2WXHvDQ/edit?usp=sharing
+     
