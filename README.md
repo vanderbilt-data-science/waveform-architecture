@@ -38,5 +38,5 @@ Sriram Nagasuri, sriram.nagasuri@vanderbilt.edu, snagasuri
    - Include relevant background information or constraints
 
 ## Direct Waverform Learning Suvery
-   - https://docs.google.com/document/d/10UW0w77fquLuGpz8PlUKIJgQJbmUW1KKY7ce2WXHvDQ/edit?usp=sharing
+   - - You can find the [Direct Waveform Learning Survey Google Doc here](https://docs.google.com/document/d/10UW0w77fquLuGpz8PlUKIJgQJbmUW1KKY7ce2WXHvDQ/edit?usp=sharing).
      
