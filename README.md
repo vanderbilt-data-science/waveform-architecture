@@ -12,3 +12,27 @@ Shivam Tyagi, shivam.tyagi@vanderbilt.edu, FrostNT1
 Zifei (Bruce) Dong, zifei.dong@vanderbilt.edu
 
 Sriram Nagasuri, sriram.nagasuri@vanderbilt.edu, snagasuri
+
+## Suggested Tips for Pseudocode Generation
+
+1. Provide Examples from Formal Algorithm Papers:
+   - Share relevant algorithms from "Formal Algorithms for Transformers" paper.
+   - Highlight key structures and conventions used in the academic pseudocode
+   - Be sure to provide it with the Appendix 
+
+2. Use Reinforcement through Human Feedback:
+   - Generate initial pseudocode using AI
+   - Review and provide specific feedback on the generated code
+   - Iterate with the AI, incorporating your feedback for improved results
+
+3. Specify Desired Level of Detail:
+   - Clarify whether you need high-level or low-level pseudocode
+   - Indicate if certain parts require more elaboration
+
+4. Define Custom Notation or Conventions:
+   - Establish any specific syntax or formatting preferences
+   - Explain any domain-specific notations you want to use
+
+5. Provide Context and Problem Description:
+   - Clearly state the problem the algorithm aims to solve
+   - Include relevant background information or constraints
